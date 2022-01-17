@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@500&family=Lato:ital@1&family=Merriweather&family=Montserrat&family=Mulish:wght@500&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-brand{
+    font-family: 'Lato', serif;
+}
+.me-auto{
+    flex-direction:row;
+    justify-content: end;
+}
+.nav-item{
+    font-family: 'Montserrat',sans-serif;
+}
