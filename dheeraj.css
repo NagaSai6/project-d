@@ -5,6 +5,12 @@
   margin: 0;
 }
 
+#navbarSupportedContent{
+    display: flex;
+   justify-content: space-between;
+}
+
+
 .navbar-brand{
     font-family: 'Lato', serif;
     font-size: 1.6rem;
