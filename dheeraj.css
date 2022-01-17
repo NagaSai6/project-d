@@ -7,11 +7,12 @@
 
 .navbar-brand{
     font-family: 'Lato', serif;
+    font-size: 1.6rem;
+    font-weight: bold;
 }
-.me-auto{
-    flex-direction:row;
-    justify-content: end;
-}
+
 .nav-item{
     font-family: 'Montserrat',sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
 }
